@@ -22,7 +22,7 @@ form.onsubmit = function (e) {
     alert("All fields are required!");
     // If everything is fine, submit the form
   } else {
-    alert("Thank you for your message!");
+    alert("Thank you! Your message has been sent.");
     form.reset(); // Reset the form
   }
 };
