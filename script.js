@@ -26,3 +26,4 @@ form.onsubmit = function (e) {
     form.reset(); // Reset the form
   }
 };
+ 
